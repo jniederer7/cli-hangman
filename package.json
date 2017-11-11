@@ -1,0 +1,25 @@
+{
+  "name": "cli-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jniederer7/cli-hangman.git"
+  },
+  "author": "Justin Niederer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jniederer7/cli-hangman/issues"
+  },
+  "homepage": "https://github.com/jniederer7/cli-hangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "moviedb": "^0.2.10",
+    "request": "^2.83.0",
+    "require": "^2.4.20"
+  }
+}
